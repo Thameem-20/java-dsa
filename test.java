@@ -1,6 +1,13 @@
-class test{
-    int a = 10;
-}
-public static void main(string args[]){
+class test
+
+{
+
+   public static void main(String args[])
+
+   {
+
+      System.out.println("Hello World");
+
+   }
 
 }
