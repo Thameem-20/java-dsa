@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class OddOrEven
+class oddoreven
 
 {
 
